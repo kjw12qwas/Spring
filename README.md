@@ -3,3 +3,4 @@
 어드민 서버 진행중 
 item api Crud 생성 
 orderGroup api Crud 생성  
+enum으로 변경
